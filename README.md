@@ -12,4 +12,4 @@ A small (the size is just 48x48mm) 8-channel FSR input/output board made specifi
 
 Небольшая (всего 48x48мм) восьмиканальная плата ввода-вывода (для датчиков типа FSR), сделанная специально для падов тревел-формата
 
-<img width="3058" height="1788" alt="Pro Micro FSR PCB-1" src="https://github.com/user-attachments/assets/e847e7bc-37d0-4495-af9c-2f8c564d019f" />
+<img width="3452" height="1788" alt="Pro Micro FSR PCB" src="https://github.com/user-attachments/assets/16168fd8-e534-4fe1-887b-541f63587154" />
